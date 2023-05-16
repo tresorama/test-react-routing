@@ -1,0 +1,12 @@
+{
+  "name": "test-react-routing",
+  "version": "1.0.0",
+  "description": "An educational monorepo to test routing in React apps.With different libs.",
+  "main": "index.js",
+  "author": "Jacopo Marrone <@tresorama> <jacopo.marrone27@gmail.com> (https://github.com/tresorama)",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": ["apps/*"]
+  }
+}
